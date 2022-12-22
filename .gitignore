@@ -1,0 +1,16 @@
+*.py[cod]
+
+dist
+build
+local
+
+MANIFEST
+Lib/booleanOperations.egg-info
+.eggs
+
+.DS_Store
+
+.tox/
+.cache/
+
+_version.py
